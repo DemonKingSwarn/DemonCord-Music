@@ -1,6 +1,6 @@
 # DemonCord-Music
 
-# Setting it up with repl.it
+## Setting it up with repl.it
 
 Open the shell in repl.it and type `chmod u+X install.sh` 
 then type `./install.sh` in the shell itself, it will download the required .jar file for the bot.
