@@ -11,5 +11,5 @@ def stay_alive():
 
 			# This 15 is for the amount of minutes you change it and take it upto 30 minutes at most
 			if ((end - start) >= (15 * 60)):
-				urllib.requests.urlopen("https://MusicBotByDemon.demonkingswarn1.repl.co")
+				urllib.requests.urlopen("the repl web url which you will get after running goes here")
 				break
