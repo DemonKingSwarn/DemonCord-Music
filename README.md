@@ -2,6 +2,8 @@
 
 ## Setting it up with repl.it
 
+Open <a href="https://repl.it/~">repl.it</a> and click on create new repl>clone from github, then paste this repository's url in there and create it.
+
 Open the shell in repl.it and type `chmod u+X install.sh` 
 then type `./install.sh` in the shell itself, it will download the required .jar file for the bot.
 After that open the `config.txt` file and put your bot's token and your user id at their respective places, also make sure to change the prefix.
