@@ -7,7 +7,9 @@ then type `./install.sh` in the shell itself, it will download the required .jar
 After that open the `config.txt` file and put your bot's token and your user id at their respective places, also make sure to change the prefix.
 and then run the repl, you will get the web url which you need to paste in `stay_alive.py`.
 Then to run the bot type `chmod u+x run.sh` in shell and then `./run.sh`.
-To make it 24/7, copy the web url and go to  <a  href="https://uptimerobot.com">uptimerobot</a> and create a new https monitor and paste that url there and click create.
+To make it 24/7, copy the web url and go to  <a  href="https://uptimerobot.com">uptimerobot</a> and create a new https monitor and paste that url there and click create. 
+
+If your bot isn't in the server already then you will get the invite url in `nohup.out` file.
 
 ## Features
   * Easy to run (just make sure Java is installed, and run!)
