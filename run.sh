@@ -1,1 +1,1 @@
-nohup java -Dnogui=true -jar JMusicBot-0.3.5.jar &
+nohup java -Dnogui=true -jar DemonCord-Music-0.3.5.jar &
