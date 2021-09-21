@@ -1,1 +1,1 @@
-wget https://github.com/jagrosh/MusicBot/releases/download/0.3.5/JMusicBot-0.3.5.jar
+wget https://github.com/DemonKingSwarn/DemonCord-Music/releases/download/0.3.5/DemonCord-Music-0.3.5.jar
