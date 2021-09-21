@@ -2,7 +2,7 @@
 
 ## Setting it up with repl.it
 
-Open <a href="https://repl.it/~">repl.it</a> and click on create new repl>clone from github, then paste this repository's url in there and create it.
+Open <a href="https://repl.it/~">repl.it</a> and click on `create new repl>clone from github`, then paste this repository's url in there and create it.
 
 Open the shell in repl.it and type `chmod u+X install.sh` 
 
