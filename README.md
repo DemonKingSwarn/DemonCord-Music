@@ -2,9 +2,11 @@
 
 ## Setting it up with repl.it
 
-Open <a href="https://repl.it/~">repl.it</a> and click on create new repl and then clone from github, then paste this repository's url in there and create it.
+Open <a href="https://repl.it/~">repl.it</a> and click on create new repl and then selcet Java in languages section and write any name and create.
 
-Open the shell in repl.it and type `chmod u+X install.sh` 
+Then go to shell and type `git clone https://github.com/DemonKingSwarn/DemonCord-Music.git`.
+
+Then again go to  shell and type `chmod u+X install.sh` 
 
 then type `./install.sh` in the shell itself, it will download the required .jar file for the bot.
 
