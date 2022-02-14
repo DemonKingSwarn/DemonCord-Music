@@ -2,7 +2,7 @@
 
 ## Setting it up with repl.it
 
-Open <a href="https://repl.it/~">repl.it</a> and click on create new repl and then selcet Java in languages section and write any name and create.
+Open <a href="https://repl.it/~">repl.it</a> and click on create new repl and then select Java in languages section and write any name and create.
 
 Then go to shell and type `git clone https://github.com/DemonKingSwarn/DemonCord-Music.git`.
 
